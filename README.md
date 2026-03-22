@@ -41,10 +41,4 @@ Probability of Default (PD) modeling on 25,000+ borrower records using machine l
 
 ## Screenshots
 
-![Model Performance](screenshots/01_model_performance_table.png)
-![ROC Curves](screenshots/02_roc_curves.png)
-![KS Plot](screenshots/03_ks_plot.png)
-![Monthly Trend](screenshots/04_monthly_trend.png)
-![SHAP Beeswarm](screenshots/05_shap_beeswarm.png)
-![SHAP Waterfall](screenshots/06_shap_waterfall.png)
-![Risk Banding](screenshots/07_risk_banding.png)
+Please Refer the screenshots in Repository
