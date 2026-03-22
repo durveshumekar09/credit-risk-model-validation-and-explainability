@@ -41,4 +41,4 @@ Probability of Default (PD) modeling on 25,000+ borrower records using machine l
 
 ## Screenshots
 
-Please Refer the screenshots in Repository
+Please refer the screenshots in repository
